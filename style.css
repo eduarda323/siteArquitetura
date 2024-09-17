@@ -1,5 +1,31 @@
+/* CSS HEX */
+
+/*
+--mimi-pink: #ffd6ffff;
+--mauve: #e7c6ffff;
+--mauve-2: #c8b6ffff;
+--periwinkle: #b8c0ffff;
+--periwinkle-2: #bbd0ffff;
+*/
+
+body{
+    background-color:rgb(84, 87, 243)
+
+}
+
+  
 img{
     width: 300px;
-    border:5px solid green;
+    border:5px solid rgb(0, 109, 128);
     border-radius:10px;
+}
+
+h1{
+    color:rgb(243, 115, 93)
+}
+h2{
+    color:aquamarine
+}
+h3{
+    color:aquamarine
 }
