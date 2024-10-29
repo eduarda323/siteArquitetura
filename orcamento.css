@@ -1,0 +1,29 @@
+td{
+    border: 1px solid green;
+    padding: 2px; 
+    text-align: center;
+    background-color: aquamarine;
+    border-radius: 6px;
+    color:blue
+
+}
+
+th{
+    padding: 2px;
+    text-align: center;
+    background-color: red;
+    border-radius: 6px;
+    color: #ffff;
+}
+table{
+    background-color: #ffaaaa;
+}
+
+h1{
+    padding: 2px;
+    text-align: center;
+    background-color: rgb(140, 97, 97);
+    border-radius: 6px;
+    color: #ffff;
+}
+
